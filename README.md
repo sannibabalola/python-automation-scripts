@@ -22,6 +22,17 @@ It’s great for anyone who works with exported data from Excel, web apps, or CR
 
 ---
 
+## 🧹 Before and After Cleaning
+
+Below are examples showing how the data looks before and after using `data_cleaner.py`:
+
+### 🪞 Before Cleaning
+![Before Cleaning](images/before_cleaning.png)
+
+### ✨ After Cleaning
+![After Cleaning](images/after_cleaning.png)
+
+
 ## 🚀 How It Works
 
 1. Place your raw file (e.g., `uncleaned_data.csv`) in the same folder as the script  
