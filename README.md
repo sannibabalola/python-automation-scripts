@@ -1,7 +1,6 @@
 # 🧹 Python Automation: Data Cleanup Tool
 
 ## 🧠 About This Project
-Hi! I’m **Babalola**, a beginner Python developer passionate about automating everyday tasks for individuals and businesses.
 
 This project is a **simple yet powerful script** that cleans messy CSV or Excel files by:
 - Removing blank rows  
