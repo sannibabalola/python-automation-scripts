@@ -27,10 +27,10 @@ It’s great for anyone who works with exported data from Excel, web apps, or CR
 Below are examples showing how the data looks before and after using `data_cleaner.py`:
 
 ### 🪞 Before Cleaning
-![Before Cleaning](images/before_cleaning.png)
+![Before Cleaning](image/after_cleaning.PNG)
 
 ### ✨ After Cleaning
-![After Cleaning](images/after_cleaning.png)
+![After Cleaning](image/after_cleaning.PNG)
 
 
 ## 🚀 How It Works
