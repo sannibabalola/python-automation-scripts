@@ -18,7 +18,7 @@ def clean_data(input_file, output_file):
     print("File loaded successfully!")
 
     # Clean spaces from text columns first
-    df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
+    df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
 
     # Drop rows where all columns are NaN
     df.dropna(how="all", inplace=True)
@@ -40,3 +40,4 @@ def clean_data(input_file, output_file):
 # Example usage
 if __name__ == "__main__":
     clean_data("uncleaned_data.csv", "cleaned_data.csv")
+
